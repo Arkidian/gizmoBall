@@ -1,5 +1,18 @@
 # Config
 
+感谢您fork了此仓库。但是，很遗憾地告诉您，此electron桌面版的仓库**已过时**，可能无法正常构建运行。
+
+如需使用代码/参考代码，请移步新的web版仓库：
+
+library|仓库地址|demo
+-|-|-
+react@17.0.2|<https://github.com/DarrenDanielDay/gizmo-ball-react>|<https://darrendanielday.github.io/gizmo-ball-react>
+vue@2.6.11|<https://github.com/DarrenDanielDay/gizmo-ball-vue>|<https://darrendanielday.github.io/gizmo-ball-vue>
+vue@3.2.25|<https://github.com/DarrenDanielDay/gizmo-ball-vue-next>|<https://darrendanielday.github.io/gizmo-ball-vue-next>
+
+如有疑问，欢迎邮件联系新的web版owner：
+<Darren_Daniel_Day@hotmail.com>
+
 ## `.vscode/settings.json`
 
 ```
